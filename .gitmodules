@@ -1,0 +1,3 @@
+[submodule "citadel-core"]
+path = citadel-core
+url = https://github.com/ValkyrieSentinel/citadel-core.git
